@@ -1,8 +1,4 @@
-✅ You should copy **this entire block below** and paste it directly into your `README.md` file on GitHub.
 
----
-
-### 🔽 COPY EVERYTHING BELOW THIS LINE 🔽
 
 ```markdown
 # 🧠 LeetCode Solutions
